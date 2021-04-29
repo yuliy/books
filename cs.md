@@ -44,16 +44,16 @@
     <br>Оч хорошая книга по многопоточному программированию. Одна из немногих по этой теме. Я лично читал на англ. Говорят, русский перевод так себе. Не знаю, не пробовал.
 
 ## Подборка книг по Python
-  1. Большинство людей начинают учить язык программирования Python с книг Марка Лутца. Это правда исчерпывающее руководство, написанное доступным языком. Но на мой вкус - ооочень раздутое и скучное.
+  * Большинство людей начинают учить язык программирования Python с книг Марка Лутца. Это правда исчерпывающее руководство, написанное доступным языком. Но на мой вкус - ооочень раздутое и скучное.
     * [Лутц, "Изучаем Python"](https://www.ozon.ru/context/detail/id/5730448/)
     * [Лутц, "Программирование на Python. Том 2"](https://www.ozon.ru/context/detail/id/8382719/)
-  1. ["Dive Into Python 3", Mark Pilgrim](https://www.amazon.com/Dive-into-Python-Mark-Pilgrim/dp/1430224150/ref=sr_1_1?keywords=dive+into+python&qid=1554452601&s=gateway&sr=8-1)
+  * ["Dive Into Python 3", Mark Pilgrim](https://www.amazon.com/Dive-into-Python-Mark-Pilgrim/dp/1430224150/ref=sr_1_1?keywords=dive+into+python&qid=1554452601&s=gateway&sr=8-1)
      <br>На мой взгляд - лучшая книга для знакомства с Python с нуля. Читается легко и быстро. Лучшее соотношение вложенного времени и полученного результата.
-  1. ["Dive Into Python", Mark Pilgrim](https://www.amazon.com/Dive-Into-Python-Mark-Pilgrim/dp/1590593561/ref=sr_1_3?keywords=dive+into+python&qid=1554452601&s=gateway&sr=8-3)
+  * ["Dive Into Python", Mark Pilgrim](https://www.amazon.com/Dive-Into-Python-Mark-Pilgrim/dp/1590593561/ref=sr_1_3?keywords=dive+into+python&qid=1554452601&s=gateway&sr=8-3)
      <br>Предыдущее издание "Dive Into Python". Может быть полезная тем, кто хочет познакомиться со 2ой версией языка Python.
-  1. ["Foundations of Python Network Programming", Brandon Rhodes, John Goerzen](https://www.amazon.com/Foundations-Python-Network-Programming-Brandon/dp/1430258543/ref=sr_1_1?keywords=python+network+programming&qid=1554452638&s=gateway&sr=8-1)
-  1. ["Expert Python Programming", Tarek Ziade](https://lib.yandex-team.ru/books/43/)
-  1. ["The Hacker's Guide to Python: 3rd Edition", Julien Danjou](https://www.amazon.com/Hackers-Guide-Python-3rd-ebook/dp/B00JC9WG70/ref=sr_1_1?keywords=hacker+guide+to+python&qid=1554453432&s=gateway&sr=8-1)
+  * ["Foundations of Python Network Programming", Brandon Rhodes, John Goerzen](https://www.amazon.com/Foundations-Python-Network-Programming-Brandon/dp/1430258543/ref=sr_1_1?keywords=python+network+programming&qid=1554452638&s=gateway&sr=8-1)
+  * ["Expert Python Programming", Tarek Ziade](https://lib.yandex-team.ru/books/43/)
+  * ["The Hacker's Guide to Python: 3rd Edition", Julien Danjou](https://www.amazon.com/Hackers-Guide-Python-3rd-ebook/dp/B00JC9WG70/ref=sr_1_1?keywords=hacker+guide+to+python&qid=1554453432&s=gateway&sr=8-1)
      <br>alximik@ рекомендует :)
 
 ## Подборка прочих хороших книг по разработке
