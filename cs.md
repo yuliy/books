@@ -57,18 +57,18 @@
      <br>alximik@ рекомендует :)
 
 ## Подборка прочих хороших книг по разработке
-  * []((https://www.ozon.ru/context/detail/id/148946316/ Гамма, Хелм, Джонсон, Влиссидес, "Приемы объектно-ориентированного проектирования. Паттерны проектирования" aka GoF aka Gang of Four))
-    Классический труд по паттернам объектно-ориентированного проектирования.
-  * []((https://www.ozon.ru/context/detail/id/144233005/ Фримен, Робсон, "Head First. Паттерны проектирования"))
-    Не судите по обложке! Очень хорошая книга для знакомства с паттернами.
+  * [Гамма, Хелм, Джонсон, Влиссидес, "Приемы объектно-ориентированного проектирования. Паттерны проектирования" aka GoF aka Gang of Four](https://www.ozon.ru/context/detail/id/148946316/)
+    <br>Классический труд по паттернам объектно-ориентированного проектирования.
+  * [Фримен, Робсон, "Head First. Паттерны проектирования](https://www.ozon.ru/context/detail/id/144233005/)
+    <br>Не судите по обложке! Очень хорошая книга для знакомства с паттернами.
   * POSA (Pattern-Oriented Software Architecture) - исчерпывающее руководство по паттернам проектирования:
-    * []((https://www.amazon.com/Pattern-Oriented-Software-Architecture-System-Patterns/dp/0471958697/ref=sr_1_1?keywords=posa+volume+1&qid=1561115523&s=gateway&sr=8-1 Pattern-Oriented Software Architecture Volume 1: A System of Patterns))
-    * []((https://www.amazon.com/Pattern-Oriented-Software-Architecture-Concurrent-Networked/dp/0471606952/ref=sr_1_1?keywords=posa+volume+2&qid=1561115692&s=gateway&sr=8-1 Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects))
-    * []((https://www.amazon.com/Pattern-Oriented-Software-Architecture-Patterns-Management/dp/0470845252/ref=sr_1_1?keywords=posa+volume+3&qid=1561115716&s=gateway&sr=8-1 Pattern-Oriented Software Architecture Volume 3: Patterns for Resource Management))
-    * []((https://www.amazon.com/Pattern-Oriented-Software-Architecture-Distributed-Computing/dp/0470059028/ref=sr_1_1?keywords=posa+volume+4&qid=1561115733&s=gateway&sr=8-1 Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing))
-    * []((https://www.amazon.com/Pattern-Oriented-Software-Architecture-Languages/dp/0471486485/ref=sr_1_1?keywords=posa+volume+5&qid=1561115753&s=gateway&sr=8-1 Pattern Oriented Software Architecture Volume 5: On Patterns and Pattern Languages))
-  * []((https://www.ozon.ru/context/detail/id/141492301/ Олифер, Олифер, "Компьютерные сети. Принципы, технологии, протоколы"))
-    Довольно исчерпывающая книга про компьютерные сети. По ней читается соответствующий курс во многих ВУЗах в РФ.
-  * []((https://www.ozon.ru/context/detail/id/148568213/ Немет, Снайдер, Хейн, Уэли, "Unix и Linux: руководство системного администратора"))
-    Позволит познакомиться с UNIX/Linux, а также даст вводную в системное администрирование этих систем.
+    * [Pattern-Oriented Software Architecture Volume 1: A System of Patterns](https://www.amazon.com/Pattern-Oriented-Software-Architecture-System-Patterns/dp/0471958697/ref=sr_1_1?keywords=posa+volume+1&qid=1561115523&s=gateway&sr=8-1)
+    * [Pattern-Oriented Software Architecture Volume 2: Patterns for Concurrent and Networked Objects](https://www.amazon.com/Pattern-Oriented-Software-Architecture-Concurrent-Networked/dp/0471606952/ref=sr_1_1?keywords=posa+volume+2&qid=1561115692&s=gateway&sr=8-1)
+    * [Pattern-Oriented Software Architecture Volume 3: Patterns for Resource Management](https://www.amazon.com/Pattern-Oriented-Software-Architecture-Patterns-Management/dp/0470845252/ref=sr_1_1?keywords=posa+volume+3&qid=1561115716&s=gateway&sr=8-1)
+    * [Pattern-Oriented Software Architecture Volume 4: A Pattern Language for Distributed Computing](https://www.amazon.com/Pattern-Oriented-Software-Architecture-Distributed-Computing/dp/0470059028/ref=sr_1_1?keywords=posa+volume+4&qid=1561115733&s=gateway&sr=8-1)
+    * [Pattern Oriented Software Architecture Volume 5: On Patterns and Pattern Languages](https://www.amazon.com/Pattern-Oriented-Software-Architecture-Languages/dp/0471486485/ref=sr_1_1?keywords=posa+volume+5&qid=1561115753&s=gateway&sr=8-1)
+  * [Олифер, Олифер, "Компьютерные сети. Принципы, технологии, протоколы](https://www.ozon.ru/context/detail/id/141492301/)
+    <br>Довольно исчерпывающая книга про компьютерные сети. По ней читается соответствующий курс во многих ВУЗах в РФ.
+  * [Немет, Снайдер, Хейн, Уэли, "Unix и Linux: руководство системного администратора](https://www.ozon.ru/context/detail/id/148568213/)
+    <br>Позволит познакомиться с UNIX/Linux, а также даст вводную в системное администрирование этих систем.
 
