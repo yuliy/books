@@ -71,4 +71,8 @@
     <br>Довольно исчерпывающая книга про компьютерные сети. По ней читается соответствующий курс во многих ВУЗах в РФ.
   * [Немет, Снайдер, Хейн, Уэли, "Unix и Linux: руководство системного администратора"](https://www.ozon.ru/context/detail/id/148568213/)
     <br>Позволит познакомиться с UNIX/Linux, а также даст вводную в системное администрирование этих систем.
+  * [Мартин Клеппман, "Высоконагруженные приложения. Программирование масштабирование поддержка"](https://www.ozon.ru/product/vysokonagruzhennye-prilozheniya-programmirovanie-masshtabirovanie-podderzhka-kleppman-martin-211433195/?asb=hOO8QmWXao863X3G%252FRq1c0W45qbbz%252B%252BL5fJXKKAkREI%253D&asb2=hOO8QmWXao863X3G_Rq1c0W45qbbz--L5fJXKKAkREI)
+    <br>Вводная в проектирование высоконагруженных систем. Здесь объясняется, что такое репликация, шардирование, консенсус и т.п. Очень-очень полезная!
+  * ["Site Reliability Engineering" (aka "Google SRE book") by Beyer, Jones, Petoff, Murphy](https://sre.google/sre-book/table-of-contents/)
+    <br>Must read для всех, кто занимается разработкой высыоконагруженного распределенного рантайма. Даже если вы не SRE, это очень полезная книга.
 
