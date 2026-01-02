@@ -3,7 +3,7 @@
 # using_docker
 My notes about reading book "Using Docker" by Adrian Mouat
 
-<img src="/img/book_cover.jpg" width="300">
+<img src="./img/book_cover.jpg" width="300">
 
 ## Part I. Background and Basics
 [Chapter 1. The What and Why of Containers](/chapter01.md)

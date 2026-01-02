@@ -17,7 +17,7 @@ There are 2 types of hypervisors:
 
 ## Containers vs VMs
 
-<img src="/img/containers_vs_vms.png" width="400">
+<img src="./img/containers_vs_vms.png" width="400">
 
 ## Docker and Containers
 
