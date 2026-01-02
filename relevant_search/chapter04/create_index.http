@@ -1,0 +1,18 @@
+PUT http://localhost:9200/my_library/
+Content-Type: application/json
+
+{
+    "settings": {
+        "analysis": {
+            "analyzer": {
+                "standard_clone": {
+                    "tokenizer": "standard",
+                    "filter": [
+                        "lowercase",
+                        "stop"
+                    ]
+                }
+            }
+        }
+    }
+}

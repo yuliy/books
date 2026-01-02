@@ -1,0 +1,15 @@
+version: "2.2"
+services:
+  elasticsearch:
+    restart: always
+    container_name: elasticsearch
+    image: elasticsearch:7.17.7
+    ports:
+      - 9200:9200
+      - 9300:9300
+    environment:
+      - discovery.type=single-node
+networks:
+  default:
+    name: "elastic-network"
+    driver: bridge

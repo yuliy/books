@@ -1,0 +1,2 @@
+DELETE http://localhost:9200/my_library/
+Content-Type: application/json

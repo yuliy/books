@@ -1,0 +1,11 @@
+GET http://localhost:9200/_search
+Content-Type: application/json
+
+{
+    "query": {
+        "multi_match": {
+            "query": "mr. weirdlove: don't worry, I'm learning to start loving bombs",
+            "fields": ["title"]
+        }
+    }
+}

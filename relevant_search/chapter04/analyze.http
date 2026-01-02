@@ -1,0 +1,7 @@
+GET http://localhost:9200/my_library/_analyze?format=json
+Content-Type: application/json
+
+{
+    "analyzer": "english_clone",
+    "text": "Dr. Strangelove: Or How I Learned to Stop Worrying and Love the Bomb"
+}
