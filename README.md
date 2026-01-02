@@ -15,4 +15,5 @@
   * [Russ Cox, Frans Kaashoek, Robert Morris - xv6: a simple, Unix-like teaching operating system](./xv6book/README.md)
   * [Jon Skeet - C# in Depth](./csharp_in_depth/README.md)
   * [Anrew Troelsen, Phil Japikse - Pro C# 10 with .NET 6](./csharp_10_troelsen/README.md)
+  * [Stephen Cleary - Concurrency in C#](./concurrency_in_csharp/README.md)
 
