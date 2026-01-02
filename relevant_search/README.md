@@ -1,6 +1,6 @@
 # relevant_search
 
-<img src="/img/book_cover.jpeg" width="300">
+<img src="./img/book_cover.jpeg" width="300">
 
 Source code of book examples: https://github.com/o19s/relevant-search-book
 

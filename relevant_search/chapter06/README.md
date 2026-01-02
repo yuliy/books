@@ -1,8 +1,8 @@
 # Chapter 6. Term-centric search
-![img](/img/figure_6_1.png)
+![img](./img/figure_6_1.png)
 
 ## 6.1. What is term-centric search?
-![img](/img/figure_6_2.png)
+![img](./img/figure_6_2.png)
 
 ## 6.2. Why do you need term-centric search?
 С field-centric search есть следующие проблемы:
@@ -17,17 +17,17 @@ Albino Elephant Problem - это явление, когда документы, 
 
 Если задать запрос `albino elephant`, то 2ой документ получит бОльший или равный скор.
 
-![img](/img/figure_6_3.png)
+![img](./img/figure_6_3.png)
 
 Теперь про signal discordance:
-![img](/img/figure_6_4.png)
+![img](./img/figure_6_4.png)
 
-![img](/img/figure_6_5.png)
+![img](./img/figure_6_5.png)
 
 ## 6.3. Performing your first term-centric searches
-![img](/img/figure_6_6.png)
+![img](./img/figure_6_6.png)
 
-![img](/img/figure_6_7.png)
+![img](./img/figure_6_7.png)
 
 ## 6.4. Solving signal discordance in term-centric search
 У term-centric подхода в целом тоже есть свои проблемы. Есть два основных способа их решения:
@@ -36,4 +36,4 @@ Albino Elephant Problem - это явление, когда документы, 
 
 ## 6.5. Combining field-centric and term-centric strategies: having your cake and eating it too
 В итоге лучший подход - комбинировать в запросе оба подхода. Пример:
-![img](/img/listing_6_16.png)
+![img](./img/listing_6_16.png)

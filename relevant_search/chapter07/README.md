@@ -1,7 +1,7 @@
 # Chapter 7. Shaping the relevance problem
 
 ## 7.1. What do we mean by score shaping?
-![img](/img/figure_7_1.png)
+![img](./img/figure_7_1.png)
 
 **Boosting** — Given a base set of search results, boosting increases the relevance score of a subset of those search results.
 
@@ -13,7 +13,7 @@
 
 
 ## 7.2. Boosting: shaping by promoting results
-![img](/img/figure_7_2.png)
+![img](./img/figure_7_2.png)
 
 ## 7.3. Filtering: shaping by excluding results
 

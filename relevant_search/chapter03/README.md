@@ -153,7 +153,7 @@ It looks like my API token is out of date or blocked. Probably it may be fixed i
 ## 3.4. Your first search application
 The [query.py tool](/chapter03/query.py) is a simple tool to send search query to Elasticsearch. It takes user query, creates ```Query DSL``` and calls Elasticsearch ```_search``` API handle. Here's what I get after indexing 10K results from TMDB:
 
-<img src="/img/your_first_search_app.png" width="800"/>
+<img src="./img/your_first_search_app.png" width="800"/>
 
 
 ## 3.5. Debugging query matching
@@ -434,9 +434,9 @@ The query validation output is reminiscent of Lucene query syntax —- a low-lev
 
 
 ### 3.6.2. The vector-space model, the relevance explain, and you
-<img src="/img/fruits_in_vector_space.png" width="800">
+<img src="./img/fruits_in_vector_space.png" width="800">
 
-<img src="/img/movies_in_vector_space.png" width="800">
+<img src="./img/movies_in_vector_space.png" width="800">
 
 В чём идея? Представляем каждое слово (каждый терм) - в виде вектора в многомерном пространстве. Например ```bag of words```:
   * Каждому слову в словаре соответствует измерение в нашем многомерном пространстве.

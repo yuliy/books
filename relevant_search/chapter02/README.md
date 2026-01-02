@@ -1,7 +1,7 @@
 # Chapter 2. Search - under the hood
 
 ## 2.1. Search 101
-<img src="/img/simple_model_of_search.png" width="500"/>
+<img src="./img/simple_model_of_search.png" width="500"/>
 
 ```bash
 SOURCE -> DOCUMENT -> TOKENIZED TEXT -> INDEXING DOCUMENTS
@@ -73,18 +73,18 @@ Indexing content:
 
 > When moving data into a data store, people talk about the process of extracting, transforming, and loading information, often referred to as **ETL**.
 
-<img src="/img/full_search_etl_pipeline.png" width="500" />
+<img src="./img/full_search_etl_pipeline.png" width="500" />
 
 ### Components of text analysis
   * character filtering
     <br>e.g. filter text in html document
-    <br><img src="/img/analysis__character_filtering.png" width="500" />
+    <br><img src="./img/analysis__character_filtering.png" width="500" />
   * tokenization
     <br>i.e. roughly splitting text into words
-    <br><img src="/img/analysis__tokenization.png" width="500" />
+    <br><img src="./img/analysis__tokenization.png" width="500" />
   * token filtering
     <br>i.e. lowercase token filter, stop-word token filter, posessive token filter
-    <br><img src="/img/analysis__token_filtering.png" width="500" />
+    <br><img src="./img/analysis__token_filtering.png" width="500" />
 
 ## 2.4. Document search and retrieval
 
