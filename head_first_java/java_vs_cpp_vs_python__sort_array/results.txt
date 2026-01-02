@@ -1,0 +1,48 @@
+===============================================
+size = 10M
+
+<<< C++ >>>
+Size: 10000000
+Random array generated in 109.575 ms
+Array sorted in 710.785 ms
+sorted: true
+Sort correctness is checked in 7.786 ms
+
+<<< JAVA >>>
+Size: 10000000
+Random array generated in 458.503 ms
+Array sorted in 4535.059 ms
+sorted: true
+Sort correctness is checked in 250.12 ms
+
+<<< PYTHON >>>
+Size: 10000000
+Random array generated in 10523.93388748169 ms
+Array sorted in 4271.405935287476 ms
+sorted: True
+Sort correctness is checked in 2543.4322357177734 ms
+
+
+===============================================
+size = 100M
+
+<<< C++ >>>
+Size: 100000000
+Random array generated in 934.884 ms
+Array sorted in 6545.85 ms
+sorted: true
+Sort correctness is checked in 81.141 ms
+
+<<< JAVA >>>
+Size: 100000000
+Random array generated in 4190.739 ms
+Array sorted in 62982.142 ms
+sorted: true
+Sort correctness is checked in 2152.849 ms
+
+<<< PYTHON >>>
+Size: 100000000
+Random array generated in 101326.26700401306 ms
+Array sorted in 57101.078033447266 ms
+sorted: True
+Sort correctness is checked in 27044.431924819946 ms
