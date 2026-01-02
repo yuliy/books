@@ -25,9 +25,9 @@
 
 Каждая операция записи в базу должна учитываться каждой репликой, иначе нельзя гарантировать, что реплики содержат одни и те же данные. Наиболее распространенное решение этой проблемы называентся репликацией с ведущим узлом (leader-based replication).
 
-<img src="/img/replication-single-leader.png" width="500">
+<img src="./img/replication-single-leader.png" width="500">
 
-<img src="/img/replication-sync-async.png" width="500">
+<img src="./img/replication-sync-async.png" width="500">
 
 ### Глава 6. Секционирование
 
