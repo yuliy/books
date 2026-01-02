@@ -40,7 +40,7 @@
 
 ## 5.3. Signal modeling in field-centric search
 Lucene-based search applications take two general-purpose approaches to ranking multiple fields, as shown in figure 5.4.:
-![img](./img/figure_5_4.png)
+![img](../img/figure_5_4.png)
 
 > **Field-centric** search runs the search string against each field, combining scores after each field is searched in isolation.
 
@@ -55,7 +55,7 @@ Lucene-based search applications take two general-purpose approaches to ranking 
   * **term-centric**: А здесь сначала считаем скор по всем поля для данного терма. А потом комбинируем скоры по термам.
 
 Elasticsearch bakes field-centric options into the `multi_match` query. It runs the search against each field that’s passed in. For each field, `multi_match` runs query-time analysis on the search string, executing a Boolean search on the resulting tokens, each as a SHOULD clause. In other words, for a given field that uses the English analyzer, the search string goes through the process shown in figure 5.5.:
-![img](./img/figure_5_5.png)
+![img](../img/figure_5_5.png)
 
 `multi_match` может формировать финальный скор по-разному. Основные варианты пожалуй следующие:
   * `best_fields` - Выбирается поле с наибольшим скором. Скор остальных либо отбрасывается, либо плюсуется с некоторым коэффициентом. Пример:
@@ -70,7 +70,7 @@ Elasticsearch bakes field-centric options into the `multi_match` query. It runs 
     Coord = <the number of matching clauses> / <number of total clauses>.
     ```
 
-![img](./img/figure_5_6.png)
+![img](../img/figure_5_6.png)
 
 Как в Elasticsearch делать поиск по стратегии `best_fields`:
 ```json

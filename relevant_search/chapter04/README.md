@@ -1,7 +1,7 @@
 # Chapter 4. Taming tokens
 
 ## 4.1. Tokens as document features
-<img src="./img/figure_4_1.png" width="800" />
+<img src="../img/figure_4_1.png" width="800" />
 
 > As you’ll soon see, meaningful tokens (features) can be extracted from things
 > as diverse as geographic locations, images, and even whistled melodies.
@@ -13,17 +13,17 @@
 > **Recall** —- The percentage of relevant documents that are returned in the result set.
 
 Illustration of documents and results in the search for apples:
-<img src="./img/figure_4_2.png" width="800" />
+<img src="../img/figure_4_2.png" width="800" />
 
 Here we have:
   * `precision = (3 / 6) * 100% = 50%`
   * `recall = (3 / 5) * 100% = 60%`
 
 Example search result set when loosening the color-match requiremnts:
-<img src="./img/figure_4_3.png" width="800" />
+<img src="../img/figure_4_3.png" width="800" />
 
 Example search result set when tightening the size requirements:
-<img src="./img/figure_4_4.png" width="800" />
+<img src="../img/figure_4_4.png" width="800" />
 
 В этой главе предлагается пулять напрямую курлом запросы в elasticsearch. Курлом попробовал - не очень удобно. Поэтому решил оформлять запросы в стиле http-repr, т.е. файлики `*.http`. Их можно запускать например с помощью плагина `REST Client` в VSCode.
 
