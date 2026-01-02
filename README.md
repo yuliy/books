@@ -1,3 +1,3 @@
 # books
 
-[computer science](./cs.md)
+[Подборк книг по Computer Science](./cs.md)
