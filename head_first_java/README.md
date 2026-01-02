@@ -2,7 +2,7 @@
 
 Мои заметки по ходу чтения книги Сьерра, Бейтс, "Изучаем Java" (в оригинале "Head First Java").
 
-<img src="/img/book_cover.jpg" width="300">
+<img src="./img/book_cover.jpg" width="300">
 
 ## Введение
 Книга (английская версия) вышла в 2009 году. Поэтому там рекомендуют скачать свежую версию JDK с сайта Sun :) С тех пор утекло много воды и Java теперь принадлежит Oracle. Так что, скачивать необходимо с сайта Oracle: https://www.oracle.com/ru/java/technologies/javase-downloads.html Документация там же. На момент чтения мной этой книги, самая свежая версия Java SE - 15.
@@ -46,6 +46,6 @@ Java 15
 
 В википедии есть [отдельная статья](https://en.wikipedia.org/wiki/Java_version_history), посвящённая истории версий Java. Скриншот:
 
-<img src="/img/java-version-history.png" width="500">
+<img src="./img/java-version-history.png" width="500">
 
 На что стоит обратить внимание. В Яндекс.Диске и Яндекс.Телемосте используется 11ая версия. Что логично, т.к. это LTS версия.
