@@ -13,4 +13,5 @@
   * [Evi Nemeth, Garth Snyder, Scott Seebass, Trent R. Hein - Unix and Linux System Administration Handbook](./usah/README.md)
   * [Adrian Mouat - Using Docker](./using_docker/README.md)
   * [Russ Cox, Frans Kaashoek, Robert Morris - xv6: a simple, Unix-like teaching operating system](./xv6book/README.md)
+  * [Jon Skeet - C# in Depth](./csharp_in_depth/README.md)
 
