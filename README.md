@@ -4,6 +4,8 @@
 
 ## Мои заметки при чтении книг
 
+| [Высоко-нагруженные приложения](./designing_dia/README.md) | Мартин Клеппман |
+
   * [Мартин Клеппман - Высоко-нагруженные приложения](./designing_dia/README.md)
   * [Anthony Williams - C++ Concurrency in Action](./cpp_concurrency_in_action/README.md)
   * [Алан А. А. Донован, Брайан У. Керниган - Язык програмирования Go](./go_lang_book/README.md)
