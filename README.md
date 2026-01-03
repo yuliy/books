@@ -4,6 +4,7 @@
 
 ## Мои заметки при чтении книг
 
+| Название                                                                  | Автор                                                     |
 | :---                                                                      | :---                                                      |
 | [Высоко-нагруженные приложения](./designing_dia/README.md)                | Мартин Клеппман                                           |
 | [C++ Concurrency in Action](./cpp_concurrency_in_action/README.md)        | Anthony Williams                                          |
